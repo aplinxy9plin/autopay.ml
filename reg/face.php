@@ -51,7 +51,6 @@ if ($err) {
   if ($err) {
     echo "cURL Error #:" . $err;
     } else {
-      var_dump($t[0]);
       if(isset($t[0]->faceId)){
         if(isset($_GET['q'])){
           echo($t[0]->faceId . '_' . $t[0]->faceAttributes->age);

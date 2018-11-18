@@ -85,7 +85,7 @@
         <div id="bubbles"></div>
         <!-- Button trigger modal -->
 <!-- <button style="display: none" type="hidden" id="md" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter"> -->
-<!-- </button> --> <a href="number.php" id="md"></a>
+<!-- </button> --> <a href="number_q.php" id="md"></a>
 
           <!-- Modal -->
           <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
